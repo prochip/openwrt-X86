@@ -43,7 +43,7 @@ git clone https://github.com/kenzok78/luci-theme-argonne.git package/luci-theme-
 #ttyd lede包已有
 
 #磁盘管理
-git clone https://github.com/lisaac/luci-app-dockerman.git package/luci-app-dockerman
+#git clone https://github.com/lisaac/luci-app-dockerman.git package/luci-app-dockerman
 
 #文件传输 lede包已有
 
@@ -55,14 +55,14 @@ git clone https://github.com/esirplayground/luci-app-poweroff.git package/luci-a
 # 服务
 
 #docker
-git clone https://github.com/lisaac/luci-app-dockerman.git package/luci-app-dockerman
+#git clone https://github.com/lisaac/luci-app-dockerman.git package/luci-app-dockerman
 
 #ShadowSocksR Plus+
 git clone https://github.com/fw876/helloworld.git package/helloworld
 
 #passwall
-git clone https://github.com/xiaorouji/openwrt-passwall.git package/openwrt-passwall
-git clone -b luci https://github.com/xiaorouji/openwrt-passwall.git package/luci-app-passwall
+#git clone https://github.com/xiaorouji/openwrt-passwall.git package/openwrt-passwall
+#git clone -b luci https://github.com/xiaorouji/openwrt-passwall.git package/luci-app-passwall
 
 #passwall2
 #git clone https://github.com/xiaorouji/openwrt-passwall.git package/openwrt-passwall
@@ -74,7 +74,7 @@ git clone https://github.com/jerrykuku/lua-maxminddb.git package/lua-maxminddb
 git clone https://github.com/fw876/helloworld.git package/helloworld
 
 #openclash
-git clone https://github.com/vernesong/OpenClash.git package/OpenClash
+#git clone https://github.com/vernesong/OpenClash.git package/OpenClash
 
 #luci-app-adguardhome
 #git clone https://github.com/rufengsuixing/luci-app-adguardhome.git package/luci-app-adguardhome
