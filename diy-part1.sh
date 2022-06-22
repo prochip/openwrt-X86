@@ -48,7 +48,7 @@ git clone https://github.com/kenzok78/luci-theme-argonne.git package/luci-theme-
 #文件传输 lede包已有
 
 #  关机
-git clone https://github.com/esirplayground/luci-app-poweroff.git package/luci-app-poweroff
+#git clone https://github.com/esirplayground/luci-app-poweroff.git package/luci-app-poweroff
 
 ##############################################################################################
 
@@ -58,7 +58,7 @@ git clone https://github.com/esirplayground/luci-app-poweroff.git package/luci-a
 #git clone https://github.com/lisaac/luci-app-dockerman.git package/luci-app-dockerman
 
 #ShadowSocksR Plus+
-git clone https://github.com/fw876/helloworld.git package/helloworld
+#git clone https://github.com/fw876/helloworld.git package/helloworld
 
 #passwall
 #git clone https://github.com/xiaorouji/openwrt-passwall.git package/openwrt-passwall
@@ -84,7 +84,7 @@ git clone https://github.com/fw876/helloworld.git package/helloworld
 # NAS
 
 #文件助手
-svn co https://github.com/kiddin9/openwrt-packages/trunk/luci-app-fileassistant package/luci-app-fileassistant
+#svn co https://github.com/kiddin9/openwrt-packages/trunk/luci-app-fileassistant package/luci-app-fileassistant
 
 ##############################################################################################
 
